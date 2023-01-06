@@ -12,7 +12,7 @@ btnLogin.addEventListener("click", (e) => {
       user.password === inputPassword.value
     ) {
       alert("Đăng Nhập Thành Công");
-      window.location.href = "https://pndangkhoa274.github.io/MainPage/";
+      window.location.href = "https://groupp9.github.io/MainPage/";
     } else {
       alert("Đăng Nhập Thất Bại");
     }
